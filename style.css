@@ -306,7 +306,7 @@ button:active {
 /* Call to Action */
 
 #banner {
-  background: url(../img/banner/b3.png) center/cover;
+  background: url(img/b3.png) center/cover;
   height: 40vh;
   width: 100%;
   text-align: center;
@@ -336,7 +336,7 @@ button:active {
 }
 
 #sm-banner .banner-box {
-  background: url(../img/img9.png) center/cover;
+  background: url(img/img10.png) center/cover ;
   height: 50vh;
   min-width: 47%;
   display: flex;
@@ -370,9 +370,7 @@ background-color: var(--btn-color);
 border: 1px solid  var(--btn-color);
 }
 
-#sm-banner .banner-box:nth-child(1) {
-  background: url(../img/img10.png);
-}
+
 
 
 #banner3 {
@@ -383,7 +381,7 @@ border: 1px solid  var(--btn-color);
 }
 
 #banner3 .banner-box {
-  background: url(../img/img11.png) center/cover;
+  background: url(../img/img10.png) center/cover;
   height: 30vh;
   min-width: 30%;
   display: flex;
