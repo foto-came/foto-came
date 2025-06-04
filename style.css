@@ -403,21 +403,16 @@ border: 1px solid  var(--btn-color);
   font-size: 15px;
 }
 
-#banner3 .banner-box:nth-child(3) {
-  background: url(../img/img12.png) center/cover;
-}
 
-#banner3 .banner-box:nth-child(2) {
-  background: url(../img/img13.png) center/cover;
-}
+
+
 
 #newsletter {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background: url(../img/banner/b1\ \(1\).jpg) center/cover
-  no-repeat;
+  
   padding: 40px 110px;
 }
 
